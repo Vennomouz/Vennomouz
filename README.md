@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/julio-migliari-ab4783159//)](https://https://www.linkedin.com/in/julio-migliari-ab4783159/)
 <!--
 **Vennomouz/Vennomouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
